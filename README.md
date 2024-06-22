@@ -1,5 +1,4 @@
-# Clash-for-Windows
-推荐使用的clash版本
+# Clash-for-Windows推荐使用的vpn代理版本
 
 图书推荐下载存储地址：
 https://github.com/holdmeo/share.git
