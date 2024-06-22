@@ -1,7 +1,7 @@
 # Clash-for-Windows
 推荐使用的clash版本
 
-图书推荐储下载地址：
+图书推荐下载存储地址：
 https://github.com/holdmeo/share.git
 
 1.王小波全集（终结版）（套装全10册）.epub
