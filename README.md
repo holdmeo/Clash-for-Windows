@@ -19,3 +19,5 @@ https://github.com/holdmeo/share.git
 7.冰与火 - 余杰.epub
 
 8.雪国 - 川端康成.epub
+
+9.牛津和汉语字典包
