@@ -1,5 +1,5 @@
 # Clash-for-Windows推荐使用的vpn代理版本
-下载方式：1.打开文件点击下载（大文件需等待很久） 2.点击上方:code -> Download zip
+下载方式：1.打开文件点击下载（大文件需等待很久） 2.点击上方:Code -> Download zip
 
 图书推荐下载存储地址：
 https://github.com/holdmeo/share.git
