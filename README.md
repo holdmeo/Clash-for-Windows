@@ -14,7 +14,7 @@ https://github.com/holdmeo/share.git
 
 5.这世界如露水般短暂 - 小林一茶.epub
 
-6.今生今世- 胡兰成.epub
+6.今生今世- 胡兰成.epub（完整版）
 
 7.冰与火 - 余杰.epub
 
